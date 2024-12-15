@@ -19,11 +19,20 @@ RadarSimulator is a comprehensive tool designed for simulating radar data for va
 - QGroundControl
 - Git
 
+### Links
+[Link for the general folder](https://drive.google.com/drive/folders/1r0VUvuoCIxCoRFVCJeNx5EjozE3XiMuk?usp=sharing)
+
 ### Steps for instaallation & Background
 [Link here for google docs](https://docs.google.com/document/d/1HrkySNciX0Kdk4k33soMS9RjTs2jXORUf8ZReWDg6gk/edit?usp=sharing)
 
 ### Work Status
 [Link here for google docs](https://docs.google.com/document/d/1YdAoCEDJXQ_kXun_aUStBoPqmapYfY4wpXZpY0BpHt8/edit?usp=sharing)
+
+### MOdel files
+[Link here for google docs](https://drive.google.com/drive/folders/1MYXUXt7FGxCFrJ8ZR_cIXCDuvRMAbx0m?usp=drive_link)
+
+
+
 
 ### Configuration
 
