@@ -22,7 +22,7 @@ RadarSimulator is a comprehensive tool designed for simulating radar data for va
 ### Links
 [Link for the general folder](https://drive.google.com/drive/folders/1r0VUvuoCIxCoRFVCJeNx5EjozE3XiMuk?usp=sharing)
 
-### Steps for instaallation & Background
+### Steps for installation & Background
 [Link here for google docs](https://docs.google.com/document/d/1HrkySNciX0Kdk4k33soMS9RjTs2jXORUf8ZReWDg6gk/edit?usp=sharing)
 
 ### Work Status
